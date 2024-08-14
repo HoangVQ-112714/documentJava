@@ -1,0 +1,77 @@
+Một vài chia sẻ về chứng chỉ quốc tế Java
+1. Tổng quan về chứng chỉ
+- Chứng chỉ tên đầy đủ là Java SE 11 Developer
+- Mục đích của chứng chỉ này nhằm đánh giá sự hiểu biết toàn diện và rộng rãi về ngôn ngữ lập trình Java bao gồm việc sử dụng các tính năng mới.
+2. Cách thức đăng ký và thi
+- Cách thức đăng ký: đăng ký trực tiếp tại trang chủ Oracle với hình thức thanh toán quốc tế
+- Chi phí: ~250$
+- Hình thức thi: Online, thi trên trình duyệt do Oracle hướng dẫn, share màn hình trong suốt quá trình làm bài
+- Hình thức: Câu hỏi trắc nghiệm (có thể 1 hoặc nhiều đáp án)
+- Thời lượng: 90 phút
+- Số câu hỏi: 50
+- Tiêu chí pass: 68% (trả lời đúng 38 câu trở lên)
+3. Nội dung kiểm tra
+Dưới đây là các nội dung sẽ được kiểm tra trong bài thi, mình sẽ đánh trọng số của từng phần dựa trên kinh nghiệm ôn thi và thi của mình.
+- Working with Java data types (10%):
+Operator, casting, unboxing-autoboxing
+String-StringBuilder
+Typer inference with var.
+Controlling Program Flow (5%):
+if/else, switch-case, loops.
+- Java Object-Oriented (30%):
+Class-objects declaration, initialization, life cycles
+Fields, methods with instance, static, overloading
+Nested class, inner class, local class, anonymous class
+Encapsulation and Immutability
+Subclass, superclass, abstract class
+Method call polymorphically.
+Interface, functional interface, private, static, default methods
+Enumeration
+- Exception Handling (5%)
+Try/catch/finally.
+Single-catch, multi-catch statements
+Throw, throws
+Try-with-resources.
+Custom exception
+- Working with Arrays and Collections (10%)
+Array, List, Set, Map, Dequeue
+Comparator, comparable
+Generics, wildcards
+- Working with Streams and Lambda expressions (15%)
+Functional interfaces using lambda expressions.
+java.util.function package
+Java Streams filtering, transforming, processing, reduction, grouping, partitioning
+Sequential and parallel streams
+- Java Platform Module System (5%)
+Modular vs non-modular application
+Named module, unnamed modules, automatic modules.
+Expose, compile, run, deploy module.
+- Concurrency (4%)
+Deadlock, livelock, starvation recognition
+Runnable, Thread
+Callable, ExecutorService
+java.util.concurrent locking api
+- Java I/O API (5%)
+I/O Streams
+NI/O API
+Serialization and deserialization
+- Secure Coding in Java SE Application (3%)
+Denial of service, code injection, data validation,data integrity
+- Database Applications with JDBC (2%)
+Database connection, manipulation
+Query statement, query result object
+- Localization (2%)
+Locale
+Resource bundle
+Message format
+Date format
+Number format
+- Annotations (4%)
+Built-in annotations
+Annotation creation, applying.
+Lời khuyên: Tập trung thật chắc vào phần OOP, Collection, Stream and Lamba expressions vì những phần này chiếm trọng số rất cao trong bài thi và cũng là những kiến thức hay dùng nhất trong Java.
+3. Kinh nghiệm ôn tập
+- Thời gian ôn tập lý tưởng là trong vòng 8 đến 12 tuần, đủ dài để mỗi tuần tìm hiểu 1 đến 2 chủ đề trong nội dung.
+- Thời điểm thi không nên để quá lâu sau quá trình ôn tập vì sẽ dễ quên dần những phần cần ghi nhớ và mất phản xạ làm bài.
+- Nên ôn tập đan xen giữa đọc tài liệu và làm test dumps. Tài liệu mình sử dụng là Oracle Study Guide: 1Z0-816 and Exam 1Z0-817 và làm các bài test dump trên phần mềm Enthuware.
+Trên đây là những chia sẻ của bản thân mình trong quá trình ôn thi chứng chỉ, hy vọng giúp ích tới mọi người.

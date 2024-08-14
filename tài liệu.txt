@@ -1,0 +1,48 @@
+Tuần 1:
+- Tổng hợp và học lại kiến thức cơ bản java
+- Tìm hiểu cấu trúc kỳ thi và các kiến thức cần thiết.
+- Tài liệu tham khảo: "OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide" của Jeanne Boyarsky và Scott Selikoff.
+
+Tuần 2:
+- Nắm vững các khái niệm OOP: class, object, inheritance, polymorphism, encapsulation.
+- Thực hành với các bài tập liên quan đến OOP.
+
+Tuần 3:
+- Tìm hiểu về exception handling, streams, collections.
+- Thực hành với các bài tập thông qua coding challenge (ví dụ: LeetCode, HackerRank).
+- Kiến thức Java nâng cao
+
+Tuần 4:
+- Tạo dự án nhỏ để củng cố những gì đã học. Thực hành viết code và đọc tài liệu.
+
+Tuần 5:
+- Tìm và làm các đề thi mẫu OCA.
+
+Tuần 6:
+- Trở lại các phần kiến thức mà bạn cảm thấy chưa vững.
+- Sử dụng tài liệu học trước và làm thêm bài tập.
+
+Tuần 7:
+- Tiếp tục làm thêm các đề thi mẫu.
+- Lên kế hoạch làm bài theo thời gian (simulating the exam).
+
+Tuần 8:
+- Ôn lại tất cả các chủ đề và kiểm tra khả năng làm bài thi.
+
+Nguồn học đề xuất
+Sách:
+
+"OCA: Oracle Certified Associate Java SE 8 Programmer I Study Guide" – Jeanne Boyarsky & Scott Selikoff.
+"Java: A Beginner's Guide" – Herbert Schildt (Tốt để củng cố kiến thức).
+Khóa học trực tuyến:
+
+Udemy: Tìm khóa học về OCA Java SE 8. Các khóa học thường bao gồm video, bài tập và câu hỏi trắc nghiệm.
+Coursera hoặc edX: Có thể tìm các khóa học Java chuyên sâu.
+Website ôn tập:
+
+CodingBat (để thực hành coding).
+LeetCode, HackerRank (để giải quyết những bài toán thuật toán).
+Tài liệu và hướng dẫn:
+
+Tài liệu Oracle: Đọc và làm quen với thông tin từ trang chính thức của Oracle về kỳ thi OCA.
+https://www.pdfiles.net/pdf/view/Head-First-Java,-3nd-Edition
