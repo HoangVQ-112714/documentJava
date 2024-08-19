@@ -1,0 +1,33 @@
+1. Cơ Bản về Java
+Lập Trình Java Căn Bản: Học cú pháp Java, kiểu dữ liệu, biến, toán tử, điều kiện, vòng lặp và các cấu trúc điều khiển.
+Hướng Đối Tượng Trong Java: Hiểu về lớp, đối tượng, kế thừa, đa hình, trừu tượng và giao diện.
+2. Cấu Trúc Dữ Liệu & Giải Thuật
+Cấu Trúc Dữ Liệu: Làm quen với các cấu trúc dữ liệu như mảng, danh sách liên kết, ngăn xếp, hàng đợi, cây và đồ thị.
+Giải Thuật: Học các thuật toán sắp xếp và tìm kiếm cơ bản.
+3. Xây Dựng Ứng Dụng Java
+Java Standard Edition (Java SE): Làm quen với các thư viện chuẩn và viết ứng dụng console.
+Quản Lý Dự Án: Học sử dụng Maven hoặc Gradle để quản lý dự án.
+4. Lập Trình Web với Java
+Servlets và JSP: Hiểu về cách tạo ứng dụng web đơn giản và cách xử lý yêu cầu từ client.
+Framework MVC: Làm quen với Spring MVC để phát triển ứng dụng web theo mô hình MVC.
+5. Làm Quen với Spring Framework
+Spring Core: Học về IoC (Inversion of Control) và DI (Dependency Injection).
+Spring Boot: Sử dụng Spring Boot để xây dựng ứng dụng backend nhanh chóng và hiệu quả. Học cách cấu hình ứng dụng, tạo RESTful API.
+6. Cơ Sở Dữ Liệu
+SQL và Cơ Sở Dữ Liệu Quan Hệ: Học cách sử dụng MySQL hoặc PostgreSQL, viết truy vấn SQL.
+Spring Data JPA: Làm quen với ORM (Object-Relational Mapping) trong Spring.
+7. Dịch Vụ RESTful API
+Tạo RESTful Services: Học cách xây dựng và triển khai API RESTful với Spring.
+API Documentation: Làm quen với Swagger hoặc OpenAPI để tài liệu hóa API.
+8. Xử Lý Bảo Mật và Phân Quyền
+Bảo Mật trong Java: Hiểu các khái niệm bảo mật cơ bản, như xác thực và phân quyền. Làm quen với Spring Security.
+9. Kiểm Thử và Triển Khai
+Kiểm Thử: Học cách viết unit test và integration test với JUnit và Mockito.
+Triển Khai Ứng Dụng: Làm quen với kỹ thuật triển khai ứng dụng lên server như Tomcat hoặc sử dụng dịch vụ đám mây như AWS hoặc Heroku.
+10. Nâng Cao
+Microservices: Tìm hiểu về kiến trúc microservices với Spring Cloud.
+Message Brokers: Làm quen với các message broker như RabbitMQ hoặc Kafka để xử lý giao tiếp giữa các dịch vụ.
+Containerization: Học về Docker và các nguyên tắc về containerization ứng dụng.
+Tài Nguyên Khuyên Dùng
+Sách: "Effective Java" của Joshua Bloch, "Java: The Complete Reference" của Herbert Schildt.
+Khóa Học Online: Coursera, Udemy và Pluralsight cung cấp nhiều khóa học chất lượng về Java.
